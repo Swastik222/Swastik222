@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Swastik222
-- 👀 I’m interested in exploring the new features and suggesting ideas
-- 🌱 I’m currently learning Computer science engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am a final year CS student
+- 💞️
 - 📫 How to reach me swastikmishra813@gmail.com 
 
 <!---
