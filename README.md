@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Swastik222
-- 👀 I am a final year CS student
+- 👀 I am a final year CSE student
 - 💞️
-- 📫 How to reach me swastikmishra813@gmail.com 
+- 📫 How to reach me swastikmishra813@gmail.com
+- I have my code snippet of my Python and Web Devlopment Learning
 
 <!---
 Swastik222/Swastik222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
